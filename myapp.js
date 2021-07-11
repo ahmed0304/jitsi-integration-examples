@@ -2,7 +2,7 @@ var apiObj = null;
 
 function StartMeeting()
 {
-    const domain = '40.76.47.33';
+    const domain = 'meet.jit.si';
     const options = {
         roomName: 'JitsiMeetAPIExample',
         width: '100%',

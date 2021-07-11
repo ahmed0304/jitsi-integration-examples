@@ -1,7 +1,7 @@
 var apiObj = null;
 
 function StartMeeting(){
-    const domain = '40.76.47.33';
+    const domain = 'meet.jit.si';
 
     var roomName = 'newRoome_' + (new Date()).getTime();
     
